@@ -12,7 +12,7 @@ It features a modern, responsive **Dark Mode GUI** built with `CustomTkinter`, a
 
 ## 📸 Screenshots
 
-![App Screenshot](screenshot_placeholder.png)
+![App Screenshot](![alt text](image.png))
 
 ---
 
